@@ -2,7 +2,7 @@
 	"manifest_version"	: 2,
 	"name"				: "GoT New Message Auto Show",
 	"short_name"		: "GoT AutoShow",
-	"description"		: "Automatically show new messages when they are posted to the forum thread.",
+	"description"		: "Automatically show new messages when they are posted to the Gathering Of Tweakers forum thread.",
 	"version"			: "0.2.4",
 	"homepage_url"		: "https://www.Redsandro.com/",
 
